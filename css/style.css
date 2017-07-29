@@ -1,0 +1,118 @@
+
+body{
+  margin:0;
+  padding:0;
+}
+.navbar-inverse{
+    border-bottom: 5px solid #aeb6bf;
+    min-height:70px;
+    background: #424949;
+}
+.navbar-inverse .navbar-brand {
+   color:#d0d3d4;
+    font-size: 30px;
+    padding: 20px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #d0d3d4;
+    font-size: 18px;
+    margin-top: 5px;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #ececec;
+  
+    border-right: 1px solid #ececec;
+    border-left:1px solid #ececec;
+}
+#blog-main {
+  padding-top: 5em;
+}
+#blog-board .item {
+  margin: 10px 10px 20px 10px;
+  background: #fff;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;
+  overflow: hidden;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07);
+}
+#blog-board .item a {
+  display: block;
+}
+#blog-board .item .fh5co-desc {
+  padding: 20px;
+  float: left;
+  line-height: 24px;
+}
+#blog-board .item .blog-item-title {
+  font-size: 17px;
+  line-height: 24px;
+  margin: 0;
+  padding: 0;
+}
+#blog-board .item img {
+  max-width: 100%;
+  -webkit-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+#blog-board .item .blog-board-img {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  overflow: hidden;
+}
+#blog-board .item .image-popup:hover img {
+  opacity: .5;
+}
+.blog-det{
+    font-size:16px;
+font-weight:700;
+}
+.post .btn{
+    margin-top:15px;
+    padding-left:10px;
+}
+footer .bottom{
+    background:#424949;
+    margin-top:10px;
+}
+footer .bottom .footer1 h3, p{
+    color:#ececec;
+    padding:5px;
+}
+footer .bottom .connect h3 {
+    color:#ececec;
+}
+footer .bottom .connect input, textarea{
+   padding:3px;
+    margin:10px;
+    width:100%;
+    background: #525959;
+    border:none;
+    border-radius: 5px;
+}
+}
+footer .bottom .connect .btn-primary{
+    margin-left:10px;
+    
+}
+footer .copyrights{
+    background: #525959;
+}
+
+.cradit{
+    margin-top:10px;
+    color:#ececec;
+     font-size:16px;
+}
+.cradit .social{
+    text-align:right;
+}  
+.cradit .social li p:hover{
+   color:aquamarine;
+}
+
+
