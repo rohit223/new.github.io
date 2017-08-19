@@ -75,6 +75,17 @@ font-weight:700;
     margin-top:15px;
     padding-left:10px;
 }
+
+.main-blog h2, img{
+  text-align: center;
+
+}
+
+.main-blog p{
+  color:#000;
+  font-size: 16px;
+  margin-bottom:10px;
+}
 footer .bottom{
     background:#424949;
     margin-top:10px;
